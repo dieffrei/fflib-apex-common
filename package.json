@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dieffrei/sfdx-ddd-commons.git"
+    "url": "git@github.com:dieffrei/fflib-apex-common"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/dieffrei/sfdx-ddd-commons#readme",
+  "homepage": "https://github.com/dieffrei/fflib-apex-common#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",
